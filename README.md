@@ -26,4 +26,10 @@ Electricians, General Contractors, etc. with regards
 to requirements and timelines.
 10. Use knowledge and experience gained to creatively  resolve
 problems preferably before they become major issues.
+11. Increased profitability on projects by creating
+more accurate and detailed version of equipment lists
+than those provided by salespersons, if in case
+I was not the one to specify the equipment list initially.
+12. Created more business opportunities by showing
+competence during projects.
 
