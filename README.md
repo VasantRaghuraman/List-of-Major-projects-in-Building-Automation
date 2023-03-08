@@ -8,6 +8,7 @@
 6. Sheikh Hamdan Villa, Dubai
 7. House of Commons - Ottawa
 8. University of Toronto-Convocation Hall
+9. International Centre in Toronto
 
 Type of work done during project:
 1. Lead Technical Teams
@@ -32,4 +33,14 @@ than those provided by salespersons, if in case
 I was not the one to specify the equipment list initially.
 12. Created more business opportunities by showing
 competence during projects.
+13. Advised the management on better internal processes
+Including using the right tools, software, quantity of personnel
+required for various projects.
+14. Did some basis Audio System Programming  using Biamp and control system programming
+using Crestron.
+15. Other major products used include Opus Smart
+Home System, Extron, Middle Atlantic racks etc.
+16. Attended training events from various manufacturers like
+Crestron, Extron, Biamp etc.
+17. Participated in team meetings and team bonding events whenever possible 
 
