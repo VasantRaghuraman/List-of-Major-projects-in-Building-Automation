@@ -8,3 +8,22 @@
 6. Sheikh Hamdan Villa, Dubai
 7. House of Commons - Ottawa
 8. University of Toronto-Convocation Hall
+
+Type of work done during project:
+1. Lead Technical Teams
+2. Project Coordination
+3. Create as-built drawings
+4. Meet clients and get basic requirements
+5. Create detailed equipment lists, including pricing, from clients 
+based on client requirements.
+6. Resolve technical issues for technicians on site
+7. Create Wiring diagrams for technicians .
+8. Meet regularly with management and stakeholders while
+Keeping them informed of any issues and how they
+are to be resolved.
+9. Coordinate with other tradespeople including
+Electricians, General Contractors, etc. with regards
+to requirements and timelines.
+10. Use knowledge and experience gained to creatively  resolve
+problems preferably before they become major issues.
+
